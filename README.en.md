@@ -20,6 +20,8 @@ The template contains two groups of rules:
 
 ## Usage
 
+The repository's `AGENTS.md` is the maintainer's current global Codex collaboration protocol for Windows and PowerShell 7 environments. Review and adapt it to the project's languages, toolchain, and release workflow before use.
+
 Download the template into the root of a new project:
 
 ```powershell
